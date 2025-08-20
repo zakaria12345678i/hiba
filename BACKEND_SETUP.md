@@ -59,6 +59,7 @@ If the backend server is not available:
 - App continues to work normally
 
 ## 🌐 **Network Access**
+
 To make this work across different devices:
 
 ### **Option A: Same WiFi Network**
